@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    text-align: center;
+    background-color: #282c34;
+   
+    color: white;
+    width: 100%;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 81%;
+  }
+  
+  table th, table td {
+    border: 1px solid #b9b9b9;
+    text-align: left;
+    padding: 9px;
+  }
+  
+  table th {
+    background-color: #282c34;
+    color: white;
+  }
+  
+  
+  
